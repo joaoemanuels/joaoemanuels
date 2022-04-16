@@ -17,10 +17,9 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="uhttps://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-bootstrap" height="30" width="60" src="uhttps://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="joao-bootstrap" height="30" width="60" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
  
 <br><br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" ><br><br>
@@ -31,6 +30,3 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-b4573221b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
  
-<div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=joaoemanuels&theme=react-dark&hide_border=true&area=true">
-</div>                                                                                                                                        
