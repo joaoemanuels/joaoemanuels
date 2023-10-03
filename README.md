@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 
-- 🔭 Faço tec em Análise e desenvolvimento de sistemas
-- 🌱 Estudo, principalmente, a "Tríade front-end" e soft skills
+- 🔭 Faço Bacharel em Ciência da computação e Tecno em Análise e desenvolvimento de sistemas
+- 🌱 Estudo, principalmente, a "Tríade front-end" e busco melhorar minhas soft skills constantemente
 - 👯 Procuro fazer todo o possível para colaborar com a comunidade 
 - ⚡ Bebida preferida: Café []~(￣▽￣) ~*
 <br>
